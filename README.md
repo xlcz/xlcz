@@ -53,4 +53,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=v1cu0&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1cu0&theme=dark&layout=compact)](https://github.com/v1cu0)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1cu0&theme=dark&layout=compact&count_private=true)](https://github.com/v1cu0)</br>
