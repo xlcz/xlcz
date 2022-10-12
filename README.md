@@ -1,6 +1,7 @@
 ### Welcome to my github!
 
 - Teenager from the United Kingdom interested in Computer Science.
+- I currently study Computer Science & Digital Medias at college.
 - Specifically interested in application development and security.
 - I want to expand my knowledge and learn new languages.
 - I'm also attempting to learn more about hardware, and how computers work.
