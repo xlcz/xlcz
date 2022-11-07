@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an IL2CPP Resolver in Odin**
 
-- 🌱 I’m currently learning **new languages, like V & Odin!**
+- 🌱 I’m currently learning **new languages, like Rust & Odin!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
