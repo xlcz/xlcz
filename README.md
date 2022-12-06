@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">A developer from the UK studying Computer Science at college.</h3>
 
-- 🔭 I’m currently working on Game Engine wrote in C++!
+- 🔭 I’m currently working on nothing ):
 
 - 🌱 I’m currently learning **Go and C++**
 
